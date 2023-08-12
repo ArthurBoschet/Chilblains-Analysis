@@ -9,7 +9,7 @@ Data from the American Academy of Dermatology and International League of Dermat
 ## Key Findings:
 The logistic regression pinpointed significant associations between particular clinical characteristics and the emergence of CLLs. Manifestations such as papulosquamous rash and urticarial eruption displayed a reduced association with CLLs. In contrast, characteristics like foot involvement, presumptive COVID-19 diagnosis based solely on clinical manifestations, and PCR negative results showed heightened associations with CLL. Notably, presentations such as fever and dermatological findings post COVID-19 treatment initiation exhibited negative correlations with CLLs.
 
-# Conclusion:
+## Conclusion:
 The investigation underscores the salience of specific clinical morphologies, diagnostic patterns, and locational implications related to COVID-19 testing and symptomatic presentations as indicative markers for CLLs. The discerned associations assist medical professionals in distinguishing CLLs from other dermatological presentations in COVID-19, emphasizing the imperative for subsequent studies to validate these findings and ascertain causative links.
 
 
