@@ -12,6 +12,8 @@ The logistic regression pinpointed significant associations between particular c
 ## Conclusion:
 The investigation underscores the salience of specific clinical morphologies, diagnostic patterns, location and symptomatic presentations as indicative markers for CLLs. The discerned associations can assist medical professionals in distinguishing CLLs from other dermatological presentations in COVID-19, emphasizing the imperative for subsequent studies to validate these findings and ascertain causative links.
 
+[![DOI](https://zenodo.org/badge/677838421.svg)](https://zenodo.org/badge/latestdoi/677838421)
+
 
 
 
